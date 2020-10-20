@@ -30,11 +30,51 @@ The script will utilize the openweatherapi to pull the information needed in cre
 
 ![tempvslat](Weatherpy/output/tempvslat.png)
 
+The Temperature versus latitude
+
+![tempvsnorth](Weatherpy/output/ntempvslat.png)
+
+The Temperature vs Northern Hemisphere
+
+![tempvssouth](Weatherpy/output/stempvslat.png)
+
+The Temperature vs Southern Hemisphere
+
 ![humvslat](Weatherpy/output/humvslat.png)
+
+The Humidity versus latitude
+
+![humvsnorth](Weatherpy/output/nhumvslat.png)
+
+The Humidity vs Northern Hemisphere
+
+![humvssouth](Weatherpy/output/shumvslat.png)
+
+The Humidity vs Southern Hemisphere
 
 ![cldvslat](Weatherpy/output/cloudvslat.png)
 
+The Cloudiness versus latitude
+
+![cldvsnorth](Weatherpy/output/ncloudvslat.png)
+
+The Cloudiness vs Northern Hemisphere
+
+![cldvssouth](Weatherpy/output/scloudvslat.png)
+
+The Cloudiness vs Southern Hemisphere
+
 ![spdvslat](Weatherpy/output/windvslat.png)
+
+The Wind Speed versus latitude
+
+![spdvsnorth](Weatherpy/output/nwindvslat.png)
+
+The Wind Speed vs Northern Hemisphere
+
+![spdvssouth](Weatherpy/output/swindvslat.png)
+
+The Wind Speed vs Southern Hemisphere
 
 ### Vacationpy
 
