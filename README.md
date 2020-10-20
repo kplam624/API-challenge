@@ -46,7 +46,7 @@ With a linear regression on the four plots there are some interesting observatio
 
 1. There is a strong correlation involved with the temperature and latitude. A strong positive correlation when examining the southern hemisphere (latitude < 0), as well as a strong negative correlation for the northern hemisphere (latitude >= 0). This makes sense as latitude = 0 is the equator and is the hottest latitude on the globe.
 
-2. For humidity vs latitude, the northern hemisphere has a weak positive correlation with latitude. The farther the city is from the equator, the more humid. For the southern hemisphere has a weak negative orientation. The closer to the equator, the less humid each city is. In other words the closer to the equator the less humid the city is.
+2. For humidity vs latitude, the northern hemisphere has a weak positive correlation with latitude. The farther the city is from the equator, the more humid. For the southern hemisphere has a weak negative correlation. The closer to the equator, the less humid each city is. This is a somewhat interesting trend as it should be the other way around. An explanation is at the time of pulling the data, the seasons may have a part in it. 
 
 3. For cloudiness, the northern hemispere has a weak positive correlation with latitude. The southern hemisphere also has a weak positive correlation with latitude. This trend is interesting. a guess is that the latitude does not affect cloudiness. Another guess through the correlation coefficient is that the farther north, the cloudier it gets.
 
