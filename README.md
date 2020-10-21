@@ -80,6 +80,11 @@ The Wind Speed vs Southern Hemisphere
 
 Within the Vacationpy directory holds the vacationpy jupyter notebook. This file will use the weatherpy csv and will determine hotel locations based on certain parameters. The goal is to identify cities that would make for good vacation spots and hotels within the area. This will utilize a google api and google maps. The markers on the map will show the hotel name, the city, and the country. Along with markers on the map, there is also a heatmap. The heatmap is weighted by humidity, the more humid the city the darker it would be.
 
+![gmap](Vacationpy/output/map.png)
+The map with multiple markers that identify the nearest hotel.
+
+![hotel_marker](Vacationpy/output/hotelmarker.png)
+
 ### Weatherpy observations
 
 With a linear regression on the four plots there are some interesting observations.
