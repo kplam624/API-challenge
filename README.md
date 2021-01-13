@@ -1,4 +1,4 @@
-# Api-challenge
+# Vacation Spot Finder
 
 ## Resources
 
